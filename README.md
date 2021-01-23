@@ -11,7 +11,7 @@
 <img src="https://static.wikia.nocookie.net/topstrongest/images/e/ee/Shiro_ngnl.jpg/revision/latest/scale-to-width-down/220?cb=20190616200602" align="right">
 <ul>
 <li>
-<b>Name:</b> Edwin
+<b>Name:</b> Edwin [Shiro]
 </li>
 <br>
 <li>
