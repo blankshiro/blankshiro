@@ -67,6 +67,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br><br><br><br><br>
 
 <h2>Spotify Playlist</h2>
-Work in Progress
+[<img src="https:/blankshiro/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwinyukishiro)
 <img src="https://c.wallhere.com/photos/2b/d4/1920x1080_px_No_Game_No_Life_Shiro_No_Game_No_Life-1188303.jpg!d">
 </body>
