@@ -59,10 +59,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </div>
 <p align="center">
   <strong><a href="">My Portfolio</a></strong> |
-  <strong><a href="">LinkedIn</a></strong> |
-  <strong><a href="">Telegram</a></strong> |
-  <strong><a href="">Discord</a></strong> |
-  <strong><a href="">Email</a></strong> |
+  <strong><a href="www.linkedin.com/in/edwin-shiro">LinkedIn</a></strong> |
+  <strong><a href="https://t.me/blankshiro">Telegram</a></strong> |
+  <strong><a href="https://discordapp.com/users/223417334025420801">Discord</a></strong> |
+  <strong><a href="mailto:edwin.tok.2019@sis.smu.edu.sg">Email</a></strong> |
 </p>
 <br><br><br><br><br>
 
