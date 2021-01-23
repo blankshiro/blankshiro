@@ -58,7 +58,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me.
 </div>
 <p align="center">
-  <strong><a href="blankshiro.github.io">Website</a></strong> |
+  <strong><a href="https://blankshiro.github.io">Website</a></strong> |
   <strong><a href="www.linkedin.com/in/edwin-shiro">LinkedIn</a></strong> |
   <strong><a href="https://t.me/blankshiro">Telegram</a></strong> |
   <strong><a href="https://discordapp.com/users/223417334025420801">Discord</a></strong> |
