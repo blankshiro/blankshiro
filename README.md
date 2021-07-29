@@ -7,37 +7,15 @@
 </p>
 
 <div>
-<h2 align="center"> About Me </h2>
-<img src="https://static.wikia.nocookie.net/topstrongest/images/e/ee/Shiro_ngnl.jpg/revision/latest/scale-to-width-down/220?cb=20190616200602" align="right">
-<ul>
-<li>
-<b>Name:</b> Edwin [Shiro]
-</li>
+<!-- <h2 align="center"> About Me </h2> -->
+<!-- <img src="https://static.wikia.nocookie.net/topstrongest/images/e/ee/Shiro_ngnl.jpg/revision/latest/scale-to-width-down/220?cb=20190616200602" align="right"> -->
 <br>
-<li>
-<b>Gender:</b> Male
-</li>
-<br>
-<li>
-<b>City:</b> Singapore
-</li>
-<br>
-<li>
-<b>Education:</b> Bachelors in Computer Science
-</li>
-<br>
-<li>
-<b>Loves:</b> Learning, hacking, coffee, anime and games OwO
-</li>
-<br>
-<li>
-<b>Hobbies:</b> Cybersecurity stuff, books, music
-</li>
-<br>
-<ul>
+<p align="center">
+<a href="https://github.com/blankshiro"><img src="https://github-readme-stats.vercel.app/api?username=blankshiro&show_icons=true" alt="blankshiro's github stats" align="center"></a>
+</p>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div>
 <h2 align="left">Skills</h2>
@@ -66,9 +44,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
 <br><br><br><br><br>
 
-<h2>Spotify Playlist</h2>
+<h1 align="center">Spotify Playlist</h2>
 
-[<img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/edwinyukishiro)
+[<p align="center">
+  <img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="50%"/></p>](https://open.spotify.com/user/edwinyukishiro)
 
 <img src="https://c.wallhere.com/photos/2b/d4/1920x1080_px_No_Game_No_Life_Shiro_No_Game_No_Life-1188303.jpg!d">
 </body>
