@@ -5,7 +5,7 @@
   
   <p align="center">
     <img src="https://c4.wallpaperflare.com/wallpaper/49/456/854/anime-anime-girls-no-game-no-life-shiro-no-game-no-life-wallpaper-preview.jpg"><br>
-  </p>
+  </p><br><br>
 
   <div>
     <h2>About Me</h2>
@@ -27,7 +27,8 @@
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    </div>
+    </div><br><br>
+
   <h2>Contact Me</h2>
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me.<br><br>
 
@@ -50,9 +51,9 @@
   </div>
   <br><br>
 
-  <h1 align="center">Spotify Playlist</h2>
+  <h2>Spotify Playlist</h2>
 
-  [<p align="center">
+  [<p>
     <img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="50%"/></p>](https://open.spotify.com/user/edwinyukishiro)
 
   
