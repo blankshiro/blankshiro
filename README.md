@@ -7,12 +7,6 @@
     <img src="https://c4.wallpaperflare.com/wallpaper/49/456/854/anime-anime-girls-no-game-no-life-shiro-no-game-no-life-wallpaper-preview.jpg"><br>
   </p><br><br>
 
-  <div>
-    <h2>About Me</h2>
-  </div>
-
-  <br><br>
-
   <h2>Skills</h2>
     <div>
       <img src="https://img.shields.io/badge/Python-2CA5E0?style=for-the-badge&logo=python&logoColor=white">
