@@ -1,23 +1,16 @@
-<body>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I+am+Shiro!&font=Fira%20Code&center=true&width=380&height=50">
-  </p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=OwO!+;%E2%9C%A9+I'm+Shiro%2C+a+hacker+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💻 Vulnerability Assessments • Penetration Testing 
+    📖 Always Learning from Other Smart Hackers • Occasionally Loves Philosophy
+    🎮 Hacking • Games • Anime • Coffee • Sleep
+</pre>
+<br>
+<img src="https://2.bp.blogspot.com/-uSbof8WWiik/U6sv8hERNII/AAAAAAAAIFs/R1F4hxxIaQQ/s1600/no-game-no-life-episode-9-7.jpg" height="120" />
+<br>
   
-  <p align="center">
-    <img src="https://c4.wallpaperflare.com/wallpaper/49/456/854/anime-anime-girls-no-game-no-life-shiro-no-game-no-life-wallpaper-preview.jpg"><br>
-  </p><br><br>
-
-  <h2>About Me</h2>
-  <div>
-    <a href="https://blankshiro.github.io" target="blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank">
-    </a>
-    <a href="https://www.linkedin.com/in/blankshiro/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </div>
-  <br><br>
-
+<body>
   <h2>Spotify Playlist</h2>
 
   [<p>
@@ -25,3 +18,12 @@
 
   
 </body>
+
+[![](https://img.shields.io/badge/website-6364ff)](https://blankshiro.xyz)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/blankshiro)
+
+<br>
+<sub>Readme Template Credit: https://github.com/innng/innng</sub> 
+</div>
+
+
