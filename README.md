@@ -19,15 +19,19 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=blankshiro&show_icons=true&theme=distinguished&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blankshiro&layout=compact&theme=distinguished&hide_border=true" height="150" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=blankshiro&show_icons=true&theme=dracula&hide_border=true" height="150" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=blankshiro&layout=compact&theme=dracula&hide_border=true" height="150" />
 
 ---
 
 ### 🎵 Currently Vibing To
-[![Spotify Now Playing](https://blankshiro-spotify.vercel.app/api/spotify-playing)](https://open.spotify.com/user/your-spotify-id)
+<a href="https://blankshiro.xyz">
+  <img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350px"/>
+</a>
 
-<br>
+<br><br>
 
 <a href="https://blankshiro.xyz"><img src="https://img.shields.io/badge/Website-6364ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="http://linkedin.com/in/blankshiro"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
