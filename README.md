@@ -18,12 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=blankshiro&show_icons=true&theme=dracula&hide_border=true" height="150" />
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=blankshiro&layout=compact&theme=dracula&hide_border=true" height="150" />
-
----
-
 ### 🎵 Currently Vibing To
 <a href="https://blankshiro.xyz">
   <img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350px"/>
