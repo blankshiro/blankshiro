@@ -1,29 +1,33 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=OwO!+;%E2%9C%A9+I'm+Shiro%2C+a+hacker+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💻 Vulnerability Assessments • Penetration Testing 
-    📖 Always Learning from Other Smart Hackers • Occasionally Loves Philosophy
-    🎮 Hacking • Games • Anime • Coffee • Sleep
-</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=3000&pause=500&color=A7A459&center=true&vCenter=true&width=800&height=100&lines=OwO!;I'm+Shiro,+a+hacker+wannabe;Exploring+the+cyber+abyss..." />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-gray?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-gray?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Philosophy-gray?style=flat-square&logo=read-the-docs&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Quick Recon
+
+`💻` **Focus:** Vulnerability Assessments & Penetration Testing  
+`📖` **Mindset:** Learning from the best & contemplating philosophy  
+`🎮` **Interests:** Hacking • Gaming • Anime • Coffee • Sleep  
+
+---
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=distinguished&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=distinguished&hide_border=true" height="150" />
+
+---
+
+### 🎵 Currently Vibing To
+[![Spotify Now Playing](https://blankshiro-spotify.vercel.app/api/spotify-playing)](https://open.spotify.com/user/your-spotify-id)
+
 <br>
-<img src="https://2.bp.blogspot.com/-uSbof8WWiik/U6sv8hERNII/AAAAAAAAIFs/R1F4hxxIaQQ/s1600/no-game-no-life-episode-9-7.jpg" height="120" />
-<br>
-  
-<body>
-  <h2>Spotify Playlist</h2>
 
-  [<p>
-    <img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="50%"/></p>](https://open.spotify.com/user/edwinyukishiro)
-
-  
-</body>
-
-[![](https://img.shields.io/badge/website-6364ff)](https://blankshiro.xyz)
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/blankshiro)
-
-<br>
-<sub>Readme Template Credit: https://github.com/innng/innng</sub> 
-</div>
-
-
+<a href="https://blankshiro.xyz"><img src="https://img.shields.io/badge/Website-6364ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="http://linkedin.com/in/blankshiro"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
