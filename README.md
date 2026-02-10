@@ -25,15 +25,6 @@ Interests : Hacking · Gaming · Anime · Coffee · Sleep
 
 ---
 
-<a href="https://github.com/blankshiro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blankshiro&show_icons=true&theme=transparent&hide_border=true&title_color=A7A459&text_color=9f9f9f&icon_color=A7A459&count_private=true&ring_color=A7A459" />
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=blankshiro&show_icons=true&theme=default&hide_border=true&title_color=A7A459&icon_color=A7A459&count_private=true&ring_color=A7A459" />
-  </picture>
-</a>
-
-<br>
-
 <a href="https://blankshiro.xyz">
   <img src="https://blankshiro-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="400"/>
 </a>
