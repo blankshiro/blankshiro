@@ -10,7 +10,6 @@ When I'm not doing that: games, anime, coffee, and not enough sleep.
 
 <br>
 
-**Writing** → [blankshiro.xyz](https://blankshiro.xyz)
-**Find me** → [LinkedIn](https://linkedin.com/in/blankshiro)
+[Writing](https://blankshiro.xyz) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/blankshiro)
 
 <br>
